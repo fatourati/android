@@ -1,2 +1,26 @@
 [{
-id:0}]
+        "id": 0,
+        "server": "fixe",
+        "url": "http://192.168.1.103:3333/api/fixe"
+    },
+    {
+        "id": 1,
+        "server": "mobile",
+        "url": "http://192.168.1.103:3333/api/mobile"
+    },
+    {
+        "id": 2,
+        "server": "internet",
+        "url": "http://192.168.1.103:3333/api/internet"
+    },
+    {
+        "id": 3,
+        "server": "one",
+        "url": "http://192.168.1.103:3333/api/one"
+    },
+    {
+        "id": 4,
+        "server": "onep",
+        "url": "http://192.168.1.103:3333/api/onep"
+    }
+]
